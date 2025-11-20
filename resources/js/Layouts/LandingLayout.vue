@@ -1,6 +1,8 @@
 <script setup>
 import { ref, onMounted, onUnmounted } from 'vue';
 import { Link } from '@inertiajs/vue3';
+import CartIcon from '@/Components/CartIcon.vue';
+import CartModal from '@/Components/CartModal.vue';
 
 const isScrolled = ref(false);
 const isMobileMenuOpen = ref(false);
@@ -87,5 +89,8 @@ onUnmounted(() => {
                 </div>
             </Transition>
         </main>
+
+        <CartIcon />
+        <CartModal />
     </div>
 </template>
