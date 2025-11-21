@@ -15,7 +15,7 @@
                 <!-- Map Container -->
                 <div class="rounded-2xl overflow-hidden shadow-xl h-[400px] border-4 border-white/50 relative group">
                     <iframe 
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3955.149778343587!2d110.8546763147766!3d-7.558631994549365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a16e6b6f6b6b3%3A0x6b6b6b6b6b6b6b6b!2sBakmi%20Jowo%20Palur!5e0!3m2!1sen!2sid!4v1620000000000!5m2!1sen!2sid" 
+                        src="https://maps.google.com/maps?q=MIE+LETHEK+PALUR+PERTAMA,+Jl.Solo+-+Karanganyar,Timur+flyover+palur+ruko+no.55+(depan+Bank+Sinar+Mas+Palur),+Dagen,+Kec.+Jaten,+Kabupaten+Karanganyar,+Jawa+Tengah+57554&output=embed" 
                         width="100%" 
                         height="100%" 
                         style="border:0;" 
@@ -49,7 +49,7 @@
                         </div>
                         
                         <div class="mt-8">
-                            <a href="https://maps.google.com/?q=Bakmi+Jowo+Palur" target="_blank" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-orange-600 hover:bg-orange-700 transition-colors duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+                            <a href="https://maps.google.com/?q=MIE+LETHEK+PALUR+PERTAMA,+Jl.Solo+-+Karanganyar,Timur+flyover+palur+ruko+no.55+(depan+Bank+Sinar+Mas+Palur),+Dagen,+Kec.+Jaten,+Kabupaten+Karanganyar,+Jawa+Tengah+57554" target="_blank" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-full text-white bg-orange-600 hover:bg-orange-700 transition-colors duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
                                 Petunjuk Arah
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
